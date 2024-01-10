@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://res.cloudinary.com/practicaldev/image/fetch/s--uJambjfZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z62yojpg2j65kbs2ielu.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff; /* Adjust text color to be visible against the background */
+    text-align: center;
+    padding: 50px;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2, p {
+    color: #111111; /* Adjust text color to be visible against the background */
+}
